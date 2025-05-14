@@ -1,1 +1,1 @@
-# git-basics
+# Git Guide
